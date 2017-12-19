@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMvcWithApi", "TestMvcWithApi\TestMvcWithApi.csproj", "{A61EC213-EAF5-4BC7-9F8A-40B88CBD38C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMvcWithApi.Tests", "TestMvcWithApi.Tests\TestMvcWithApi.Tests.csproj", "{BBC87A9E-A9F3-4BE7-8716-030D92A0D587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61EC213-EAF5-4BC7-9F8A-40B88CBD38C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61EC213-EAF5-4BC7-9F8A-40B88CBD38C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61EC213-EAF5-4BC7-9F8A-40B88CBD38C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61EC213-EAF5-4BC7-9F8A-40B88CBD38C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC87A9E-A9F3-4BE7-8716-030D92A0D587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC87A9E-A9F3-4BE7-8716-030D92A0D587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC87A9E-A9F3-4BE7-8716-030D92A0D587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC87A9E-A9F3-4BE7-8716-030D92A0D587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
